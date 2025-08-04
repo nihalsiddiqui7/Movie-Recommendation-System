@@ -1,0 +1,7 @@
+# Ignore secrets and cache
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+
+# Optional: prevent large binary files
+*.pkl
