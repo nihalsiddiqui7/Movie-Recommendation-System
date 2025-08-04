@@ -1,6 +1,6 @@
 # 🎬 Movie Recommender System
 
-try it out- https://movie-recommendation-system-nqsruon355v8jjeyyt9slc.streamlit.app/
+try it out- https://ns-movie-recommendation-system.streamlit.app/
 
 A content-based movie recommendation engine built with Streamlit and TMDb API.
 
@@ -10,4 +10,5 @@ A content-based movie recommendation engine built with Streamlit and TMDb API.
 - Retry mechanism to handle network issues
 
 ## Run Locally
+
 
